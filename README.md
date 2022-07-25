@@ -1,1 +1,1 @@
-# WindowsFormsApp4
+# Talaba ma‘lumotnomasi loyiham SQL bilan ishlashda ilk dasturlarimdan biri. bu dastur V1.0 versiya bo'lib keyingi versiyalarda loyiha mukammalashib boradi. Hozirda faqat talaba qo'shish, o‘chirish bor. login bn parol 1. Foydalanuvchi ID sini olganman.
